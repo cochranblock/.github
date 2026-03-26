@@ -14,7 +14,7 @@
 
 ### What's here
 
-11 public Rust repositories. All Unlicense. All production code. Every repo ships with **Proof of Artifacts** and a **Timeline of Invention** proving human-piloted AI development.
+12 public Rust repositories. All Unlicense. All production code. Every repo ships with **Proof of Artifacts** and a **Timeline of Invention** proving human-piloted AI development.
 
 | Repo | What it does | Status |
 |------|-------------|--------|
@@ -29,6 +29,7 @@
 | **[rogue-repo](https://github.com/cochranblock/rogue-repo)** | Sovereign app store + ISO 8583 payment engine. 100% Rust. | ![Active](https://img.shields.io/badge/status-active-blue) |
 | **[wowasticker](https://github.com/cochranblock/wowasticker)** | Offline-first mobile app. Voice dictation, on-device Whisper, behavioral scoring. | ![Active](https://img.shields.io/badge/status-active-blue) |
 | **[whyyoulying](https://github.com/cochranblock/whyyoulying)** | Truth verification engine. | ![Active](https://img.shields.io/badge/status-active-blue) |
+| **[pocket-server](https://github.com/cochranblock/pocket-server)** | Your website lives on your phone. Rust web server + Android kiosk dashboard. No hosting bill. Ever. | ![Active](https://img.shields.io/badge/status-active-blue) |
 
 ---
 
@@ -58,7 +59,7 @@ Your $3,000/month cloud bill should be $10. **[See the numbers.](https://cochran
 
 ### Fractional CTO services
 
-Zero-cloud architecture for startups, SMBs, and government. 11 years defense and enterprise. Army veteran (17C Cyber Operations). USCYBERCOM J38 dev lead.
+Zero-cloud architecture for startups, SMBs, and government. 13 years defense and enterprise. Army veteran (17C Cyber Operations). USCYBERCOM J38 dev lead.
 
 **$3,500** one-time deployment | **$225/hr** consulting | **$3,500/mo** retainer
 
