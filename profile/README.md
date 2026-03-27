@@ -14,7 +14,7 @@
 
 ### What's here
 
-12 public Rust repositories. All Unlicense. All production code. Every repo ships with **Proof of Artifacts** and a **Timeline of Invention** proving human-piloted AI development.
+14 public Rust repositories. All Unlicense. All production code. Every repo ships with **Proof of Artifacts** and a **Timeline of Invention** proving human-piloted AI development.
 
 | Repo | What it does | Status |
 |------|-------------|--------|
@@ -30,6 +30,8 @@
 | **[wowasticker](https://github.com/cochranblock/wowasticker)** | Offline-first mobile app. Voice dictation, on-device Whisper, behavioral scoring. | ![Active](https://img.shields.io/badge/status-active-blue) |
 | **[whyyoulying](https://github.com/cochranblock/whyyoulying)** | Truth verification engine. | ![Active](https://img.shields.io/badge/status-active-blue) |
 | **[pocket-server](https://github.com/cochranblock/pocket-server)** | Your website lives on your phone. Rust web server + Android kiosk dashboard. No hosting bill. Ever. | ![Active](https://img.shields.io/badge/status-active-blue) |
+| **[provenance-docs](https://github.com/cochranblock/provenance-docs)** | AI development documentation framework for federal acquisition. Timeline of Invention + Proof of Artifacts. | ![Active](https://img.shields.io/badge/status-active-blue) |
+| **[call-shield](https://github.com/cochranblock/call-shield)** | On-device call screening. Whisper + intent classifier in 42MB binary. Zero audio leaves the device. | ![Active](https://img.shields.io/badge/status-active-blue) |
 
 ---
 
