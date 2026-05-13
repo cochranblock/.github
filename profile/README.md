@@ -7,7 +7,7 @@
 <p align="center">
   This entire company — <a href="https://cochranblock.org">cochranblock.org</a> — runs as a single 15MB Rust binary on bare metal.<br>
   <strong>$10/month. No AWS. No Kubernetes. No DevOps team.</strong><br>
-  Veteran-owned. SDVOSB pending. It's not the Mech — it's the pilot.
+  Veteran-owned. SDVOSB certified (SBA VetCert, 2026-05-12). It's not the Mech — it's the pilot.
 </p>
 
 ---
@@ -75,4 +75,4 @@ The company that sells web hosting ships 116 JavaScript files. We ship zero.
 
 **[Start a Project](https://cochranblock.org/deploy)** | **[Cost Analysis](https://cochranblock.org/mathskillz)** | **[Book a Call](https://cochranblock.org/book)** | **[Open Books](https://cochranblock.org/openbooks)**
 
-<p align="center"><em>Service-Disabled Veteran-Owned Small Business (SDVOSB) — Pending<br>SAM.gov UEI W7X3HAQL9CF9 · Maryland CSB Approved · eMMA SUP1095449</em></p>
+<p align="center"><em>Service-Disabled Veteran-Owned Small Business (SDVOSB) — Certified 2026-05-12 (SBA VetCert, expires 2029-05-12)<br>SAM.gov UEI W7X3HAQL9CF9 · CAGE 1CQ66 · Maryland CSB Approved · eMMA SUP1095449</em></p>
