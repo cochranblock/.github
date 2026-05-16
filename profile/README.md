@@ -5,9 +5,9 @@
 <h3 align="center">Your server bill is too high.</h3>
 
 <p align="center">
-  This entire company — <a href="https://cochranblock.org">cochranblock.org</a> — runs as a single 15MB Rust binary on bare metal.<br>
+  This entire company — <a href="https://cochranblock.org">cochranblock.org</a> — runs as a single 13 MB Rust binary (8.9 MB on ARM) on bare metal.<br>
   <strong>$10/month. No AWS. No Kubernetes. No DevOps team.</strong><br>
-  Veteran-owned. SDVOSB certified (SBA VetCert, 2026-05-12). It's not the Mech — it's the pilot.
+  Veteran-owned. SDVOSB certified (SBA VetCert, 2026-05-12 · expires 2029-05-12). It's not the Mech — it's the pilot.
 </p>
 
 ---
@@ -20,16 +20,18 @@
 
 ---
 
-### 16 public repos. All Rust. All live.
+### 31 public Rust repos. 33 crates published. All live.
+
+The 16 headlining products are listed below — every other repo (utility crates, runsible workspace, support tooling) is at **[github.com/cochranblock](https://github.com/cochranblock?type=public&language=rust)**.
 
 | Repo | What it does | Size |
 |------|-------------|------|
 | **[aptnomo](https://github.com/cochranblock/aptnomo)** | Autonomous APT threat hunter. Auto-kills cryptominers. Zero config. | 312 KB |
 | **[call-shield](https://github.com/cochranblock/call-shield)** | On-device call screening. Whisper + intent classifier. Zero audio leaves device. | 48 KB |
-| **[cochranblock](https://github.com/cochranblock/cochranblock)** | This site. 15MB binary, embedded assets, native search, live analytics. | 8.4 MB |
-| **[kova](https://github.com/cochranblock/kova)** | Augment engine. Agent loop, 7 tools, multi-provider LLM, 4-node cluster. | ~51 MB |
+| **[cochranblock](https://github.com/cochranblock/cochranblock)** | This site. 13 MB Rust binary, embedded assets, native search, live analytics. | 8.9 MB ARM / 13 MB x86 |
+| **[kova](https://github.com/cochranblock/kova)** | Augment engine. Agent loop, 7 tools, multi-provider LLM, 4-node cluster. | ~25 MB Linux x86_64 / 27 MB macOS ARM64 |
 | **[pixel-forge](https://github.com/cochranblock/pixel-forge)** | AI sprite generator. 3 on-device diffusion models, MoE cascade, LoRA. | 9.2 MB |
-| **[ghost-fabric](https://github.com/cochranblock/ghost-fabric)** | Sovereign edge intelligence. LoRa 915MHz mesh, on-device AI. | 19 MB |
+| **[ghost-fabric](https://github.com/cochranblock/ghost-fabric)** | Sovereign edge intelligence. LoRa 915MHz mesh, on-device AI. | 459 KB (binary) / 1.6 MB (Android AAB) |
 | **[approuter](https://github.com/cochranblock/approuter)** | Reverse proxy + Cloudflare tunnel. All products behind one entry point. | — |
 | **[rogue-repo](https://github.com/cochranblock/rogue-repo)** | ISO 8583 payment processing engine. 100% Rust. | — |
 | **[oakilydokily](https://github.com/cochranblock/oakilydokily)** | Waiver management, digital intake, ESIGN. First paying partnership. | — |
