@@ -2,12 +2,11 @@
   <img src="https://raw.githubusercontent.com/cochranblock/cochranblock/main/assets/cochranblock-logo.svg" alt="CochranBlock" width="320">
 </p>
 
-<h3 align="center">Your server bill is too high.</h3>
+<h3 align="center">LET'S TEAM.</h3>
 
 <p align="center">
-  This entire company — <a href="https://cochranblock.org">cochranblock.org</a> — runs as a single 13 MB Rust binary (8.9 MB on ARM) on bare metal.<br>
-  <strong>$10/month. No AWS. No Kubernetes. No DevOps team.</strong><br>
-  Veteran-owned. SDVOSB certified (SBA VetCert, 2026-05-12 · expires 2029-05-12). It's not the Mech — it's the pilot.
+  Rust shop, SDVOSB certified. <strong>We sub on your contract, we prime your SBIR, we teach our architecture under the Unlicense.</strong> Architecture taught is architecture adopted.<br>
+  <a href="https://cochranblock.org">cochranblock.org</a> — 13 MB Rust binary, $10/month, bare metal. SDVOSB certified (SBA VetCert, 2026-05-12 · expires 2029-05-12).
 </p>
 
 ---
