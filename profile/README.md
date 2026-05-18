@@ -19,7 +19,7 @@
 
 ---
 
-### 33 public repos. 13 crates published. All live.
+### 35 public repos. 33 crates published. All live.
 
 | Repo | What it does |
 |------|-------------|
