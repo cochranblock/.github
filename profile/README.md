@@ -19,7 +19,7 @@
 
 ---
 
-### 35 public repos. 33 crates published. All live.
+### 36 public repos. 33 crates published. All live.
 
 | Repo | What it does |
 |------|-------------|
@@ -30,6 +30,7 @@
 | **[battle-bros](https://github.com/cochranblock/battle-bros)** | Soldier Board simulation trainer. Offline AI for military regulation training on AR glasses. Public domain. |
 | **[call-shield](https://github.com/cochranblock/call-shield)** | On-device call screening. Whisper + intent classifier in 42 MB. Zero audio leaves the device. |
 | **[cochranblock](https://github.com/cochranblock/cochranblock)** | This site. 13 MB Rust binary, embedded assets, native search, live analytics. $10/month. |
+| **[cochranblock-mail](https://github.com/cochranblock/cochranblock-mail)** | Sovereign SMTP/IMAP server. Single Rust binary, zero cloud, zero SaaS. |
 | **[deglaze](https://github.com/cochranblock/deglaze)** | JS Budget Auditor for WASM. Maps wasm-bindgen glue to the spec proposal that kills each function. |
 | **[exopack](https://github.com/cochranblock/exopack)** | Test augmentation: screenshot, video, API mocks, triple sims. Zero external test deps. |
 | **[forge-engine](https://github.com/cochranblock/forge-engine)** | 2D-first Rust game engine. Desktop and web on the same code path. NanoSign provenance baked in. |
@@ -52,7 +53,7 @@
 | **[runsible](https://github.com/cochranblock/runsible)** | Ansible reimagined as a TOML-native single-binary Rust tool. |
 | **[tmux-harness](https://github.com/cochranblock/tmux-harness)** | AI fleet orchestration via tmux. LangChain is dead. Zero Python. Zero cloud. |
 | **[tmuxisfree](https://github.com/cochranblock/tmuxisfree)** | tmux is free. So is this. Sovereign terminal workflow, zero cloud, zero subscriptions. |
-| **[whobelooking](https://github.com/cochranblock/whobelooking)** | Visitor presence and analytics. Sovereign, no third-party beacons. |
+| **[whobelooking](https://github.com/cochranblock/whobelooking)** | IP intelligence platform. Drop any log — browser WASM parses, enriches, and reports. pcap, syslog, OTEL, AWS ALB, GCP, Cloudflare pull. Zero server-side data retention. |
 | **[whyyoulying](https://github.com/cochranblock/whyyoulying)** | Truth verification engine. Labor category fraud detection for DoD IG. |
 | **[worldview](https://github.com/cochranblock/worldview)** | Geopolitical signal aggregator. On-device, sovereign, no subscriptions. |
 | **[wowasticker](https://github.com/cochranblock/wowasticker)** | Offline voice dictation + behavioral scoring. On-device Whisper. |
